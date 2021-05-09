@@ -8,4 +8,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sakshijain009)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshijain009&theme=blue-green)
+
+
 
