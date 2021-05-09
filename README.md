@@ -13,9 +13,8 @@
 
 # Find me on  ✉️
 <p>
- <a href="https://www.linkedin.com/in/sakshi-jain-6273161a5/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
- <a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"></a>
- <a href="mailto:jainsakshi9301@gmail.com">Email</a>
+ * <a href="https://www.linkedin.com/in/sakshi-jain-6273161a5/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+ * <a href="mailto:jainsakshi9301@gmail.com">Email</a>
 </p>
 
 
