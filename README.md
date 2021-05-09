@@ -9,7 +9,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sakshijain009)
 
 # Random Joke Generator
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api&theme=white)
 
 # Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=sakshijain009)
