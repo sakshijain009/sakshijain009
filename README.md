@@ -8,7 +8,15 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sakshijain009)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshijain009&theme=blue-green)
+## 3. Contributors Badge
+![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
+## 4. Random Joke Generator
+![Jokes Card](https://readme-jokes.vercel.app/api)
+## 5. Profile View Counter
+![Profile View Counter](https://komarev.com/ghpvc/?username=sakshijain009)
+### Repository View Counter - HITS
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/sakshijain009/Python)
+
 
 
 
