@@ -12,10 +12,9 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=sakshijain009)
 
 # Find me on  ✉️
-<p>
  * <a href="https://www.linkedin.com/in/sakshi-jain-6273161a5/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
  * <a href="mailto:jainsakshi9301@gmail.com">Email</a>
-</p>
+
 
 
 
