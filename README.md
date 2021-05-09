@@ -8,6 +8,6 @@
 - 🌱 I’m currently into app and web dev
 - 👯 I’m look forward to collaborate with experts already on board
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=sakshijain009)
+![Github stats](https://github-readme-stats.vercel.app/apisakshijain009)
 
 
