@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 - 🤗 I’m Sakshi Jain, currently a 2nd year BTech Student at NIT Surat
 - 🌱 I’m currently into app and web dev
