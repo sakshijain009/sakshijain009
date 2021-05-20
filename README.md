@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🤗 I’m Sakshi Jain, currently a 2nd year BTech Student at NIT Surat
-- 🌱 I’m currently into Web and Blockchsin Devlopment
+- 🌱 I’m currently into Web and Blockchain Devlopment
 - 👯 I look forward to collaborate with experts already on board
 
 # Github Stats 🚀
