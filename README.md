@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🤗 I’m Sakshi Jain, currently a 3nd year BTech Student at NIT Surat
+- 🤗 I’m Sakshi Jain, currently a 3rd year BTech Student at NIT Surat
 - 🌱 I’m currently into Web and Blockchain
 - 👯 I look forward to collaborate with experts already on board
 
